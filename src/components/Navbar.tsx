@@ -14,7 +14,7 @@ function Navbar() {
           </span>
         </div>
         <div className="navbar-end">
-          <label htmlFor="create-modal" className="btn btn-primary">Create issue</label>
+          <label htmlFor="create-modal" className="btn btn-primary">Create</label>
         </div>
       </nav>
     </div>
